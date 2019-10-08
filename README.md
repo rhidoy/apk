@@ -1,4 +1,4 @@
-# This is an advanced To-Let Android App, powered by high performance Spring Boot Server with auth2.0 and JWT Token and Https, Also with MySQL Database with Optimized Queries. 
+# This is an advanced To-Let Android App, powered by high performance Spring Boot Server with Oauth2.0 and JWT Token and Https, Also with MySQL Database with Optimized Queries. 
 ## Main Features of This Apps
 ### 1. Post Filtered by Specific Location with Two Different Section
 * **City>Sub-Area>Area.**
